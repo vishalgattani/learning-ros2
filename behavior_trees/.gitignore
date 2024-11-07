@@ -1,2 +1,7 @@
 BehaviorTree.CPP
 **/build
+**/.venv
+**/venv
+**/.env
+**/*.dot
+**/*.svg
